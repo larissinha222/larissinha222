@@ -1,9 +1,9 @@
 Olá! 
 Meu nome é Larissa Agostini🍓
 
-Sou estudante da Alura;
-Estou me desenvolvendo na linguagem computacional;
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
+-Sou estudante da Alura;
+-Estou me desenvolvendo na linguagem computacional;
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 
 Você pode entrar em contato comigo pelo email📩:
 00001106130716sp@al.educacao.sp.gov.br 
